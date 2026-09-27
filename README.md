@@ -23,6 +23,6 @@ Ansible
 Prometheus · Grafana · Splunk · SonarQube
 
 #### What I'm building next
-Working on public projects to demonstrate this stack end-to-end — starting with a Kubernetes deployment on EKS with a full Prometheus/Grafana monitoring stack, and a Jenkins-to-ArgoCD GitOps pipeline.
+DevOps Engineer with hands-on experience building and automating cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments.
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/shaikriyaz123)
