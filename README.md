@@ -71,6 +71,11 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
   </a>
 </p>
 <p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=riyazshaik123456&theme=dark" alt="GeeksforGeeks Stats"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://leetcode.com/u/RiyazShaik123456/">
     <img src="https://img.shields.io/badge/LeetCode-RiyazShaik123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -113,5 +118,8 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
   </a>
   <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
     <img src="https://img.shields.io/badge/For_Practice-GeeksforGeeks?style=for-the-badge&color=2F8D46&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.instagram.com/shaikhriaz21/">
+    <img src="https://img.shields.io/badge/For_Personal_Updates-Instagram?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
   </a>
 </p>
