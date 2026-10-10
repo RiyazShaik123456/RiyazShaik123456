@@ -65,16 +65,20 @@
 DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments, with a growing focus on MLOps.
 
 ### :computer: Coding Profiles
-<p align="center">
-  <a href="https://leetcode.com/u/RiyazShaik123456/">
-    <img src="https://leetcard.jacoblin.cool/RiyazShaik123456?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
-    <img src="./gfg-overview.svg" width="480" alt="GeeksforGeeks Problems Overview"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://leetcode.com/u/RiyazShaik123456/">
+        <img src="https://leetcard.jacoblin.cool/RiyazShaik123456?theme=dark&font=Karla&ext=heatmap" width="400" alt="LeetCode Stats"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
+        <img src="./gfg-overview.svg" width="400" alt="GeeksforGeeks Problems Overview"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- GFG-BADGES:START -->
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
