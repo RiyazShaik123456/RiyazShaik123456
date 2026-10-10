@@ -72,11 +72,12 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
 </p>
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=riyazshaik123456&theme=dark" alt="GeeksforGeeks Stats"/>
+    <img src="https://img.shields.io/badge/GFG_Coding_Score-238-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Coding Score"/>
+    <img src="https://img.shields.io/badge/GFG_Problems_Solved-83-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Problems Solved"/>
+    <img src="https://img.shields.io/badge/GFG_Institute_Rank-2-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Institute Rank"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GFG_Problems_Solved-83-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Problems Solved"/>
   <img src="https://img.shields.io/badge/Basic-13-2F8D46?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Easy-32-2F8D46?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Medium-36-F59E0B?style=for-the-badge"/>
