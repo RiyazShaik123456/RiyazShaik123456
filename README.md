@@ -72,6 +72,12 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
 </p>
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
+    <img src="./gfg-overview.svg" width="480" alt="GeeksforGeeks Problems Overview"/>
+  </a>
+</p>
+<!-- GFG-BADGES:START -->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
     <img src="https://img.shields.io/badge/GFG_Coding_Score-238-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Coding Score"/>
     <img src="https://img.shields.io/badge/GFG_Problems_Solved-83-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Problems Solved"/>
     <img src="https://img.shields.io/badge/GFG_Institute_Rank-2-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Institute Rank"/>
@@ -83,6 +89,7 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
   <img src="https://img.shields.io/badge/Medium-36-F59E0B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hard-2-DC2626?style=for-the-badge"/>
 </p>
+<!-- GFG-BADGES:END -->
 <p align="center">
   <a href="https://leetcode.com/u/RiyazShaik123456/">
     <img src="https://img.shields.io/badge/LeetCode-RiyazShaik123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
