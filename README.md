@@ -76,6 +76,13 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
   </a>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/GFG_Problems_Solved-83-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Problems Solved"/>
+  <img src="https://img.shields.io/badge/Basic-13-2F8D46?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Easy-32-2F8D46?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-36-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-2-DC2626?style=for-the-badge"/>
+</p>
+<p align="center">
   <a href="https://leetcode.com/u/RiyazShaik123456/">
     <img src="https://img.shields.io/badge/LeetCode-RiyazShaik123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -99,7 +106,7 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
   <img src="https://github-readme-stats.vercel.app/api?username=RiyazShaik123456&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyazShaik123456&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://ghchart.rshah.org/2088FF/RiyazShaik123456" alt="GitHub Contribution Graph"/>
 </p>
 
 ### :coffee: Hit Me Up Here
