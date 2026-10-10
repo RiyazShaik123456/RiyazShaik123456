@@ -18,6 +18,15 @@
 <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 
+**Web, Databases & OS**<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 **CI/CD & Version Control**<br/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white"/>
@@ -55,6 +64,21 @@
 ### :seedling: What I'm Building Next
 DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments, with a growing focus on MLOps.
 
+### :computer: Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/u/RiyazShaik123456/">
+    <img src="https://leetcard.jacoblin.cool/RiyazShaik123456?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/RiyazShaik123456/">
+    <img src="https://img.shields.io/badge/LeetCode-RiyazShaik123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-riyazshaik123456-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
 ### :bar_chart: Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazShaik123456&layout=compact&hide_border=true" alt="Top Languages"/>
@@ -83,5 +107,11 @@ DevOps engineer building and automating cloud infrastructure, CI/CD pipelines, c
   </a>
   <a href="https://linkedin.com/in/shaikriyaz123">
     <img src="https://img.shields.io/badge/For_Professional_Updates-LinkedIn?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/RiyazShaik123456/">
+    <img src="https://img.shields.io/badge/For_Problem_Solving-LeetCode?style=for-the-badge&color=FFA116&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/riyazshaik123456?tab=activity">
+    <img src="https://img.shields.io/badge/For_Practice-GeeksforGeeks?style=for-the-badge&color=2F8D46&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
