@@ -4,6 +4,16 @@
  
 
 ### :technologist: About Me
+
+
+- 💼 I'm currently working as a **DevOps Engineer** at **Booking Holdings** (Jun 2025 – present).
+- 📋 I previously worked at **KPMG** (2024 – 2025).
+- 🚀 MLOps + DevOps engineer with hands-on experience across the full deployment lifecycle, from CI/CD pipelines to cloud infrastructure to production monitoring.
+- ☁️ I build and automate cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shaikriyaz123) or the links below.
+
+### :hammer_and_wrench: What I Work With
+
 **Data Science & Machine Learning**<br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -25,13 +35,6 @@
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vector_Search-4B5563?style=for-the-badge"/>
 
-- 💼 I'm currently working as a **DevOps Engineer** at **Booking Holdings** (Jun 2025 – present).
-- 📋 I previously worked at **KPMG** (2024 – 2025).
-- 🚀 MLOps + DevOps engineer with hands-on experience across the full deployment lifecycle, from CI/CD pipelines to cloud infrastructure to production monitoring.
-- ☁️ I build and automate cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shaikriyaz123) or the links below.
-
-### :hammer_and_wrench: What I Work With
 
 **Programming & Scripting**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
