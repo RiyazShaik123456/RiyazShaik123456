@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white"/>
 
 ### :seedling: What I'm Building Next
-Data science and GenAI engineer with a DevOps and MLOps foundation. I build RAG-based LLM applications and machine learning models, and I deploy them using CI/CD pipelines, containers and Kubernetes. I'm now focusing on taking GenAI and ML systems into reliable production: evaluation, monitoring and MLOps.
+Data science and GenAI engineer with a DevOps and MLOps foundation. I build RAG-based LLM applications and machine learning models and I deploy them using CI/CD pipelines, containers and Kubernetes. I'm now focusing on taking GenAI and ML systems into reliable production: evaluation, monitoring and MLOps.
 
 ### :computer: Coding Profiles
 <table align="center">
