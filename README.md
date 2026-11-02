@@ -4,6 +4,27 @@
  
 
 ### :technologist: About Me
+**Data Science & Machine Learning**<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random_Forest-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model_Evaluation-4B5563?style=for-the-badge"/>
+
+**NLP, GenAI & LLMs**<br/>
+<img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Search-4B5563?style=for-the-badge"/>
+
 - 💼 I'm currently working as a **DevOps Engineer** at **Booking Holdings** (Jun 2025 – present).
 - 📋 I previously worked at **KPMG** (2024 – 2025).
 - 🚀 MLOps + DevOps engineer with hands-on experience across the full deployment lifecycle, from CI/CD pipelines to cloud infrastructure to production monitoring.
