@@ -1,7 +1,7 @@
 <h1 align="center">Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Riyaz Shaik</h1>
 
-<p align="center"><b>MLOps + DevOps Engineer</b> | CI/CD · Cloud · Kubernetes · Monitoring</p>
-- 🔬 I also work with **data science and GenAI**: Python, machine learning, NLP and RAG-based LLM applications, alongside my MLOps, DevOps and backend work.
+<p align="center"><b>data science and GenAI</b> | Python, machine learning, NLP and RAG-based LLM applications, alongside my MLOps, DevOps and backend work CI/CD · Cloud · Kubernetes · Monitoring</p>
+ 
 
 ### :technologist: About Me
 - 💼 I'm currently working as a **DevOps Engineer** at **Booking Holdings** (Jun 2025 – present).
