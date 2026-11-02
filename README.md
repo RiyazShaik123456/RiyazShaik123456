@@ -6,7 +6,7 @@
 ### :technologist: About Me
 
 
-- 💼 I'm currently working as a **DevOps Engineer** at **Booking Holdings** (Jun 2025 – present).
+- 💼 I'm currently working as a **Data Scientist- Gen AI ** at **Booking Holdings** (Jun 2025 – present).
 - 📋 I previously worked at **KPMG** (2024 – 2025).
 - 🚀 MLOps + DevOps engineer with hands-on experience across the full deployment lifecycle, from CI/CD pipelines to cloud infrastructure to production monitoring.
 - ☁️ I build and automate cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments.
