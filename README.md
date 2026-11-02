@@ -8,6 +8,7 @@
 
 - 💼 I'm currently working as a **<b>Data Scientist- Gen AI</b> ** at **Booking Holdings** (Jun 2025 – present).
 - 📋 I previously worked at **KPMG** (2024 – 2025).
+- 🔬 I build **data science and GenAI** solutions: Python, machine learning, NLP and RAG-based LLM applications using Azure OpenAI and LangChain.
 - 🚀 MLOps + DevOps engineer with hands-on experience across the full deployment lifecycle, from CI/CD pipelines to cloud infrastructure to production monitoring.
 - ☁️ I build and automate cloud infrastructure, CI/CD pipelines, containerized workloads and Kubernetes deployments.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shaikriyaz123) or the links below.
